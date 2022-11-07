@@ -1,3 +1,5 @@
+public class RecursionPractice(){
+
 public String displayString(String str, int n){
   if(n==1) return str;
   return str + displayString(str,n-1);
@@ -57,4 +59,5 @@ public int getNumberOfZerosRecursion(int n){
             ++temp;
         return temp;
     }
+}
 }

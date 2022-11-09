@@ -3,7 +3,7 @@
  * author: Monauver Rahman
  * course: ITEC 2150
  * date: November 4, 2022
- * version 1.0
+ * version 2.0
  * description: Solutions for 
  * https://codingbat.com/prob/p222237?parent=/home/hpark7@ggc.edu/recursion1
  * w/ main method
